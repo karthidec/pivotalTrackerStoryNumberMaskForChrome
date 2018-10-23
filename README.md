@@ -12,6 +12,15 @@ Example:
        - 1234 - last 4 digits of story number
 
 -----
+# How to install this extension in your chrome browser?:
+
+ - Open below web store extension link in your chrome browser.
+   - https://chrome.google.com/webstore/detail/pivotal-tracker-story-num/ienephhenhijhhfadgobajpepoipobfc
+ - Click `Add to Chrome` button.
+ - Open pivotal tracker and navigate to your project.
+ - Notice the story number display in story name field.
+
+-----
 
 Unit testing - jest framework
   - `./node_modules/.bin/jest`    
