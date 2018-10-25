@@ -12,7 +12,7 @@ Example:
        - 1234 - last 4 digits of story number
 
 -----
-# How to install this extension in your chrome browser?:
+# How to install this extension in your chrome browser?
 
  - Open below web store extension link in your chrome browser.
    - https://chrome.google.com/webstore/detail/pivotal-tracker-story-num/ienephhenhijhhfadgobajpepoipobfc
@@ -22,11 +22,12 @@ Example:
 
 -----
 
-Unit testing - jest framework
-  - `./node_modules/.bin/jest`    
+# Unit test 
+  - Jest framework
+      - `./node_modules/.bin/jest`    
 
 -----
 
-References:
+# References:
   - https://medium.com/@karthidec/how-to-display-the-story-number-in-story-name-field-in-collapse-mode-for-pivotal-tracker-projects-774c70b6a950
   - https://www.pivotaltracker.com/integrations/story-ID-display
