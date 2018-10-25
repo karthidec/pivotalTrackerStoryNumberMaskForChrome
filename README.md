@@ -24,3 +24,8 @@ Example:
 
 Unit testing - jest framework
   - `./node_modules/.bin/jest`    
+
+-----
+
+References:
+  - https://medium.com/@karthidec/how-to-display-the-story-number-in-story-name-field-in-collapse-mode-for-pivotal-tracker-projects-774c70b6a950
