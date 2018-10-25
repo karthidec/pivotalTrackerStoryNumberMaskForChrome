@@ -29,3 +29,4 @@ Unit testing - jest framework
 
 References:
   - https://medium.com/@karthidec/how-to-display-the-story-number-in-story-name-field-in-collapse-mode-for-pivotal-tracker-projects-774c70b6a950
+  - https://www.pivotaltracker.com/integrations/story-ID-display
