@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
   "name": "Pivotal Tracker Story Number Mask",
-  "version": "0.0.0.1",
-  "description": "Pivotal Tracker story number mask to automatically display story number with story name in collapse mode",
+  "version": "0.0.0.2",
+  "description": "Updated with bug fix - Display title in projector mode",
 
   "content_scripts": [{
     "js": ["content.js"],
